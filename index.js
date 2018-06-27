@@ -1,5 +1,5 @@
 function init() {
-  //put any page initialization/handlebars initialization here
+"I'm so lost"
 }
 document.addEventListener("DOMContentLoaded", function(event) {
   init()
