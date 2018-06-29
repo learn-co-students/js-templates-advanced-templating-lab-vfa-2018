@@ -1,6 +1,12 @@
 function init() {
-"I'm so lost"
+   //put any page initialization/handlebars initialization here
+ }
+
+ document.addEventListener("DOMContentLoaded", function(event) {
+   init()
+ })
+
+function createRecipe() {
+  var recipe = {
+  }
 }
-document.addEventListener("DOMContentLoaded", function(event) {
-  init()
-})
